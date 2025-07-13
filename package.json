@@ -1,0 +1,14 @@
+{
+  "name": "study-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "dotenv": "^17.0.0",
+    "moment-timezone": "^0.5.45",
+    "html-escaper": "^4.0.2"
+  }
+}
